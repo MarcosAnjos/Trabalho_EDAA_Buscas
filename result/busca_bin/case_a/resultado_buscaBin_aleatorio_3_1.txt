@@ -1,0 +1,8 @@
+O valor 1000000 nao foi encontrado na lista. Tempo de busca: 0.0015919208526611328 segundos. Numero de comparacoes: 19
+
+Calcular tempo medio
+Tempo medio de busca: 0.0015919208526611328 segundos.
+
+Calcular o tempo total
+Tempo das buscas: [0.0015919208526611328] segundos.
+Tempo total da busca: 0.0015919208526611328 segundos.

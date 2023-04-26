@@ -1,0 +1,110 @@
+O valor 257813 foi encontrado na posicao 257813 da lista. Tempo de busca: 0.912513256072998 segundos. Numero de comparacoes: 629
+O valor 488623 foi encontrado na posicao 488623 da lista. Tempo de busca: 1.4779207706451416 segundos. Numero de comparacoes: 1045
+O valor 176469 foi encontrado na posicao 176469 da lista. Tempo de busca: 0.7915892601013184 segundos. Numero de comparacoes: 548
+O valor 56180 foi encontrado na posicao 56180 da lista. Tempo de busca: 1.145733118057251 segundos. Numero de comparacoes: 814
+O valor 569389 foi encontrado na posicao 569389 da lista. Tempo de busca: 2.1171183586120605 segundos. Numero de comparacoes: 1441
+O valor 663250 foi encontrado na posicao 663250 da lista. Tempo de busca: 2.150371789932251 segundos. Numero de comparacoes: 1537
+O valor 107102 foi encontrado na posicao 107102 da lista. Tempo de busca: 1.1810085773468018 segundos. Numero de comparacoes: 835
+O valor 598172 foi encontrado na posicao 598172 da lista. Tempo de busca: 1.1273739337921143 segundos. Numero de comparacoes: 755
+O valor 271645 foi encontrado na posicao 271645 da lista. Tempo de busca: 1.4608283042907715 segundos. Numero de comparacoes: 1066
+O valor 433707 foi encontrado na posicao 433707 da lista. Tempo de busca: 0.9255311489105225 segundos. Numero de comparacoes: 602
+O valor 648096 foi encontrado na posicao 648096 da lista. Tempo de busca: 2.2910523414611816 segundos. Numero de comparacoes: 1564
+O valor 549419 foi encontrado na posicao 549419 da lista. Tempo de busca: 1.6096889972686768 segundos. Numero de comparacoes: 1117
+O valor 55816 foi encontrado na posicao 55816 da lista. Tempo de busca: 0.6318831443786621 segundos. Numero de comparacoes: 450
+O valor 730568 foi encontrado na posicao 730568 da lista. Tempo de busca: 1.4004456996917725 segundos. Numero de comparacoes: 987
+O valor 558524 foi encontrado na posicao 558524 da lista. Tempo de busca: 1.7485365867614746 segundos. Numero de comparacoes: 1292
+O valor 225258 foi encontrado na posicao 225258 da lista. Tempo de busca: 1.5320003032684326 segundos. Numero de comparacoes: 1115
+O valor 773224 foi encontrado na posicao 773224 da lista. Tempo de busca: 2.3625869750976562 segundos. Numero de comparacoes: 1672
+O valor 650599 foi encontrado na posicao 650599 da lista. Tempo de busca: 1.9163451194763184 segundos. Numero de comparacoes: 1388
+O valor 468174 foi encontrado na posicao 468174 da lista. Tempo de busca: 1.5970726013183594 segundos. Numero de comparacoes: 1135
+O valor 356905 foi encontrado na posicao 356905 da lista. Tempo de busca: 0.8195137977600098 segundos. Numero de comparacoes: 598
+O valor 73110 foi encontrado na posicao 73110 da lista. Tempo de busca: 1.0924725532531738 segundos. Numero de comparacoes: 777
+O valor 138257 foi encontrado na posicao 138257 da lista. Tempo de busca: 1.1309752464294434 segundos. Numero de comparacoes: 735
+O valor 311742 foi encontrado na posicao 311742 da lista. Tempo de busca: 1.3585693836212158 segundos. Numero de comparacoes: 978
+O valor 360464 foi encontrado na posicao 360464 da lista. Tempo de busca: 0.8688993453979492 segundos. Numero de comparacoes: 585
+O valor 710218 foi encontrado na posicao 710218 da lista. Tempo de busca: 1.6320462226867676 segundos. Numero de comparacoes: 1176
+O valor 253565 foi encontrado na posicao 253565 da lista. Tempo de busca: 1.158212661743164 segundos. Numero de comparacoes: 846
+O valor 315006 foi encontrado na posicao 315006 da lista. Tempo de busca: 0.9296252727508545 segundos. Numero de comparacoes: 670
+O valor 637790 foi encontrado na posicao 637790 da lista. Tempo de busca: 1.4789226055145264 segundos. Numero de comparacoes: 1081
+O valor 273385 foi encontrado na posicao 273385 da lista. Tempo de busca: 1.442667007446289 segundos. Numero de comparacoes: 1020
+O valor 687839 foi encontrado na posicao 687839 da lista. Tempo de busca: 1.6108410358428955 segundos. Numero de comparacoes: 1122
+O valor 143663 foi encontrado na posicao 143663 da lista. Tempo de busca: 1.107726812362671 segundos. Numero de comparacoes: 783
+O valor 799856 foi encontrado na posicao 799856 da lista. Tempo de busca: 2.133312225341797 segundos. Numero de comparacoes: 1514
+O valor 362955 foi encontrado na posicao 362955 da lista. Tempo de busca: 1.7854502201080322 segundos. Numero de comparacoes: 1290
+O valor 548293 foi encontrado na posicao 548293 da lista. Tempo de busca: 1.251413106918335 segundos. Numero de comparacoes: 884
+O valor 139227 foi encontrado na posicao 139227 da lista. Tempo de busca: 1.1413886547088623 segundos. Numero de comparacoes: 812
+O valor 684481 foi encontrado na posicao 684481 da lista. Tempo de busca: 1.8793208599090576 segundos. Numero de comparacoes: 1336
+O valor 674960 foi encontrado na posicao 674960 da lista. Tempo de busca: 2.3198843002319336 segundos. Numero de comparacoes: 1638
+O valor 443721 foi encontrado na posicao 443721 da lista. Tempo de busca: 1.123882532119751 segundos. Numero de comparacoes: 793
+O valor 461281 foi encontrado na posicao 461281 da lista. Tempo de busca: 1.9535834789276123 segundos. Numero de comparacoes: 1386
+O valor 737411 foi encontrado na posicao 737411 da lista. Tempo de busca: 2.229538679122925 segundos. Numero de comparacoes: 1579
+O valor 281450 foi encontrado na posicao 281450 da lista. Tempo de busca: 1.474414587020874 segundos. Numero de comparacoes: 1048
+O valor 303988 foi encontrado na posicao 303988 da lista. Tempo de busca: 0.5363438129425049 segundos. Numero de comparacoes: 368
+O valor 432091 foi encontrado na posicao 432091 da lista. Tempo de busca: 1.0809462070465088 segundos. Numero de comparacoes: 772
+O valor 523054 foi encontrado na posicao 523054 da lista. Tempo de busca: 0.9143509864807129 segundos. Numero de comparacoes: 649
+O valor 706240 foi encontrado na posicao 706240 da lista. Tempo de busca: 2.3902485370635986 segundos. Numero de comparacoes: 1663
+O valor 356329 foi encontrado na posicao 356329 da lista. Tempo de busca: 1.2976465225219727 segundos. Numero de comparacoes: 915
+O valor 553585 foi encontrado na posicao 553585 da lista. Tempo de busca: 1.1336886882781982 segundos. Numero de comparacoes: 818
+O valor 588836 foi encontrado na posicao 588836 da lista. Tempo de busca: 1.7106294631958008 segundos. Numero de comparacoes: 1242
+O valor 786084 foi encontrado na posicao 786084 da lista. Tempo de busca: 1.5591037273406982 segundos. Numero de comparacoes: 1137
+O valor 237451 foi encontrado na posicao 237451 da lista. Tempo de busca: 1.1064949035644531 segundos. Numero de comparacoes: 806
+O valor 101387 foi encontrado na posicao 101387 da lista. Tempo de busca: 0.6464376449584961 segundos. Numero de comparacoes: 478
+O valor 246259 foi encontrado na posicao 246259 da lista. Tempo de busca: 0.9503946304321289 segundos. Numero de comparacoes: 684
+O valor 430843 foi encontrado na posicao 430843 da lista. Tempo de busca: 1.7867774963378906 segundos. Numero de comparacoes: 1310
+O valor 211418 foi encontrado na posicao 211418 da lista. Tempo de busca: 0.9182746410369873 segundos. Numero de comparacoes: 670
+O valor 326986 foi encontrado na posicao 326986 da lista. Tempo de busca: 1.4215950965881348 segundos. Numero de comparacoes: 1041
+O valor 754274 foi encontrado na posicao 754274 da lista. Tempo de busca: 2.078533172607422 segundos. Numero de comparacoes: 1475
+O valor 799536 foi encontrado na posicao 799536 da lista. Tempo de busca: 1.6813311576843262 segundos. Numero de comparacoes: 1194
+O valor 45910 foi encontrado na posicao 45910 da lista. Tempo de busca: 0.49785900115966797 segundos. Numero de comparacoes: 367
+O valor 77927 foi encontrado na posicao 77927 da lista. Tempo de busca: 0.3348715305328369 segundos. Numero de comparacoes: 236
+O valor 130367 foi encontrado na posicao 130367 da lista. Tempo de busca: 1.2007334232330322 segundos. Numero de comparacoes: 882
+O valor 563604 foi encontrado na posicao 563604 da lista. Tempo de busca: 1.4535496234893799 segundos. Numero de comparacoes: 1014
+O valor 103008 foi encontrado na posicao 103008 da lista. Tempo de busca: 0.4480423927307129 segundos. Numero de comparacoes: 313
+O valor 142118 foi encontrado na posicao 142118 da lista. Tempo de busca: 1.4476900100708008 segundos. Numero de comparacoes: 1024
+O valor 387048 foi encontrado na posicao 387048 da lista. Tempo de busca: 1.747615098953247 segundos. Numero de comparacoes: 1272
+O valor 570141 foi encontrado na posicao 570141 da lista. Tempo de busca: 1.7532663345336914 segundos. Numero de comparacoes: 1300
+O valor 16705 foi encontrado na posicao 16705 da lista. Tempo de busca: 0.8805756568908691 segundos. Numero de comparacoes: 631
+O valor 420592 foi encontrado na posicao 420592 da lista. Tempo de busca: 1.1878609657287598 segundos. Numero de comparacoes: 882
+O valor 519565 foi encontrado na posicao 519565 da lista. Tempo de busca: 1.116795301437378 segundos. Numero de comparacoes: 732
+O valor 265043 foi encontrado na posicao 265043 da lista. Tempo de busca: 0.9903106689453125 segundos. Numero de comparacoes: 715
+O valor 483767 foi encontrado na posicao 483767 da lista. Tempo de busca: 0.9345881938934326 segundos. Numero de comparacoes: 654
+O valor 676862 foi encontrado na posicao 676862 da lista. Tempo de busca: 1.183654546737671 segundos. Numero de comparacoes: 861
+O valor 671276 foi encontrado na posicao 671276 da lista. Tempo de busca: 2.135010242462158 segundos. Numero de comparacoes: 1526
+O valor 111839 foi encontrado na posicao 111839 da lista. Tempo de busca: 0.31315135955810547 segundos. Numero de comparacoes: 214
+O valor 790439 foi encontrado na posicao 790439 da lista. Tempo de busca: 1.5150041580200195 segundos. Numero de comparacoes: 1027
+O valor 443263 foi encontrado na posicao 443263 da lista. Tempo de busca: 1.7685260772705078 segundos. Numero de comparacoes: 1228
+O valor 292047 foi encontrado na posicao 292047 da lista. Tempo de busca: 1.3453454971313477 segundos. Numero de comparacoes: 929
+O valor 375446 foi encontrado na posicao 375446 da lista. Tempo de busca: 1.8737726211547852 segundos. Numero de comparacoes: 1279
+O valor 18221 foi encontrado na posicao 18221 da lista. Tempo de busca: 0.5370190143585205 segundos. Numero de comparacoes: 361
+O valor 563049 foi encontrado na posicao 563049 da lista. Tempo de busca: 1.971883773803711 segundos. Numero de comparacoes: 1352
+O valor 731755 foi encontrado na posicao 731755 da lista. Tempo de busca: 1.8627004623413086 segundos. Numero de comparacoes: 1281
+O valor 387581 foi encontrado na posicao 387581 da lista. Tempo de busca: 1.3250110149383545 segundos. Numero de comparacoes: 912
+O valor 468723 foi encontrado na posicao 468723 da lista. Tempo de busca: 1.1019597053527832 segundos. Numero de comparacoes: 791
+O valor 622288 foi encontrado na posicao 622288 da lista. Tempo de busca: 1.0567595958709717 segundos. Numero de comparacoes: 760
+O valor 111988 foi encontrado na posicao 111988 da lista. Tempo de busca: 0.5141592025756836 segundos. Numero de comparacoes: 363
+O valor 310167 foi encontrado na posicao 310167 da lista. Tempo de busca: 1.6711952686309814 segundos. Numero de comparacoes: 1189
+O valor 183641 foi encontrado na posicao 183641 da lista. Tempo de busca: 0.8612432479858398 segundos. Numero de comparacoes: 576
+O valor 799361 foi encontrado na posicao 799361 da lista. Tempo de busca: 1.4242656230926514 segundos. Numero de comparacoes: 1019
+O valor 171783 foi encontrado na posicao 171783 da lista. Tempo de busca: 0.453427791595459 segundos. Numero de comparacoes: 327
+O valor 398900 foi encontrado na posicao 398900 da lista. Tempo de busca: 0.8077137470245361 segundos. Numero de comparacoes: 622
+O valor 346795 foi encontrado na posicao 346795 da lista. Tempo de busca: 1.6315617561340332 segundos. Numero de comparacoes: 1204
+O valor 30097 foi encontrado na posicao 30097 da lista. Tempo de busca: 0.8440530300140381 segundos. Numero de comparacoes: 628
+O valor 267867 foi encontrado na posicao 267867 da lista. Tempo de busca: 1.256077766418457 segundos. Numero de comparacoes: 860
+O valor 495711 foi encontrado na posicao 495711 da lista. Tempo de busca: 1.375779151916504 segundos. Numero de comparacoes: 989
+O valor 603630 foi encontrado na posicao 603630 da lista. Tempo de busca: 1.241072416305542 segundos. Numero de comparacoes: 855
+O valor 638064 foi encontrado na posicao 638064 da lista. Tempo de busca: 1.8428471088409424 segundos. Numero de comparacoes: 1355
+O valor 434171 foi encontrado na posicao 434171 da lista. Tempo de busca: 1.5171937942504883 segundos. Numero de comparacoes: 1066
+O valor 163117 foi encontrado na posicao 163117 da lista. Tempo de busca: 0.820641279220581 segundos. Numero de comparacoes: 591
+O valor 116498 foi encontrado na posicao 116498 da lista. Tempo de busca: 0.5776183605194092 segundos. Numero de comparacoes: 408
+O valor 354343 foi encontrado na posicao 354343 da lista. Tempo de busca: 1.0380842685699463 segundos. Numero de comparacoes: 715
+O valor 792723 foi encontrado na posicao 792723 da lista. Tempo de busca: 2.255826950073242 segundos. Numero de comparacoes: 1525
+
+Calcular tempo medio
+Tempo médio de busca: 1.3363137459754943 segundos.
+
+Calcular o tempo total
+Tempo das buscas: [0.912513256072998, 1.4779207706451416, 0.7915892601013184, 1.145733118057251, 2.1171183586120605, 2.150371789932251, 1.1810085773468018, 1.1273739337921143, 1.4608283042907715, 0.9255311489105225, 2.2910523414611816, 1.6096889972686768, 0.6318831443786621, 1.4004456996917725, 1.7485365867614746, 1.5320003032684326, 2.3625869750976562, 1.9163451194763184, 1.5970726013183594, 0.8195137977600098, 1.0924725532531738, 1.1309752464294434, 1.3585693836212158, 0.8688993453979492, 1.6320462226867676, 1.158212661743164, 0.9296252727508545, 1.4789226055145264, 1.442667007446289, 1.6108410358428955, 1.107726812362671, 2.133312225341797, 1.7854502201080322, 1.251413106918335, 1.1413886547088623, 1.8793208599090576, 2.3198843002319336, 1.123882532119751, 1.9535834789276123, 2.229538679122925, 1.474414587020874, 0.5363438129425049, 1.0809462070465088, 0.9143509864807129, 2.3902485370635986, 1.2976465225219727, 1.1336886882781982, 1.7106294631958008, 1.5591037273406982, 1.1064949035644531, 0.6464376449584961, 0.9503946304321289, 1.7867774963378906, 0.9182746410369873, 1.4215950965881348, 2.078533172607422, 1.6813311576843262, 0.49785900115966797, 0.3348715305328369, 1.2007334232330322, 1.4535496234893799, 0.4480423927307129, 1.4476900100708008, 1.747615098953247, 1.7532663345336914, 0.8805756568908691, 1.1878609657287598, 1.116795301437378, 0.9903106689453125, 0.9345881938934326, 1.183654546737671, 2.135010242462158, 0.31315135955810547, 1.5150041580200195, 1.7685260772705078, 1.3453454971313477, 1.8737726211547852, 0.5370190143585205, 1.971883773803711, 1.8627004623413086, 1.3250110149383545, 1.1019597053527832, 1.0567595958709717, 0.5141592025756836, 1.6711952686309814, 0.8612432479858398, 1.4242656230926514, 0.453427791595459, 0.8077137470245361, 1.6315617561340332, 0.8440530300140381, 1.256077766418457, 1.375779151916504, 1.241072416305542, 1.8428471088409424, 1.5171937942504883, 0.820641279220581, 0.5776183605194092, 1.0380842685699463, 2.255826950073242] segundos.
+Tempo total da busca: 133.63137459754944 segundos.
+
+Calcular desvio Padrao
+Desvio Padrao (tempo): 0.5044249309503851
