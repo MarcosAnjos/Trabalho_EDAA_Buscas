@@ -1,0 +1,303 @@
+A chave 541952 foi encontrada na árvore.
+Tempo de busca: 1.001288 segundos.
+Número de comparações: 27
+A chave 901241 não foi encontrada na árvore.
+Tempo de busca: 1.000936 segundos.
+Número de comparações: 14
+A chave 152734 foi encontrada na árvore.
+Tempo de busca: 1.000738 segundos.
+Número de comparações: 24
+A chave 957806 não foi encontrada na árvore.
+Tempo de busca: 1.000836 segundos.
+Número de comparações: 14
+A chave 330697 foi encontrada na árvore.
+Tempo de busca: 1.001169 segundos.
+Número de comparações: 23
+A chave 963532 não foi encontrada na árvore.
+Tempo de busca: 1.001032 segundos.
+Número de comparações: 14
+A chave 226990 foi encontrada na árvore.
+Tempo de busca: 1.000471 segundos.
+Número de comparações: 26
+A chave 652464 não foi encontrada na árvore.
+Tempo de busca: 1.000251 segundos.
+Número de comparações: 14
+A chave 815394 não foi encontrada na árvore.
+Tempo de busca: 1.000647 segundos.
+Número de comparações: 14
+A chave 323258 foi encontrada na árvore.
+Tempo de busca: 1.001020 segundos.
+Número de comparações: 28
+A chave 165170 foi encontrada na árvore.
+Tempo de busca: 1.001195 segundos.
+Número de comparações: 19
+A chave 994011 não foi encontrada na árvore.
+Tempo de busca: 1.000820 segundos.
+Número de comparações: 14
+A chave 928135 não foi encontrada na árvore.
+Tempo de busca: 1.000300 segundos.
+Número de comparações: 14
+A chave 882873 não foi encontrada na árvore.
+Tempo de busca: 1.000395 segundos.
+Número de comparações: 14
+A chave 143921 foi encontrada na árvore.
+Tempo de busca: 1.000853 segundos.
+Número de comparações: 21
+A chave 815542 não foi encontrada na árvore.
+Tempo de busca: 1.000290 segundos.
+Número de comparações: 14
+A chave 402333 foi encontrada na árvore.
+Tempo de busca: 1.000621 segundos.
+Número de comparações: 23
+A chave 661483 não foi encontrada na árvore.
+Tempo de busca: 1.000224 segundos.
+Número de comparações: 14
+A chave 266967 foi encontrada na árvore.
+Tempo de busca: 1.000664 segundos.
+Número de comparações: 32
+A chave 226176 foi encontrada na árvore.
+Tempo de busca: 1.000416 segundos.
+Número de comparações: 15
+A chave 802860 não foi encontrada na árvore.
+Tempo de busca: 1.000838 segundos.
+Número de comparações: 14
+A chave 976792 não foi encontrada na árvore.
+Tempo de busca: 1.000438 segundos.
+Número de comparações: 14
+A chave 908904 não foi encontrada na árvore.
+Tempo de busca: 1.000461 segundos.
+Número de comparações: 14
+A chave 464285 foi encontrada na árvore.
+Tempo de busca: 1.000635 segundos.
+Número de comparações: 33
+A chave 108945 foi encontrada na árvore.
+Tempo de busca: 1.001320 segundos.
+Número de comparações: 27
+A chave 267521 foi encontrada na árvore.
+Tempo de busca: 1.000792 segundos.
+Número de comparações: 31
+A chave 643630 não foi encontrada na árvore.
+Tempo de busca: 1.000320 segundos.
+Número de comparações: 14
+A chave 82088 foi encontrada na árvore.
+Tempo de busca: 1.000787 segundos.
+Número de comparações: 26
+A chave 706359 não foi encontrada na árvore.
+Tempo de busca: 1.000220 segundos.
+Número de comparações: 14
+A chave 656956 não foi encontrada na árvore.
+Tempo de busca: 1.000689 segundos.
+Número de comparações: 14
+A chave 417886 foi encontrada na árvore.
+Tempo de busca: 1.000948 segundos.
+Número de comparações: 23
+A chave 166382 foi encontrada na árvore.
+Tempo de busca: 1.000666 segundos.
+Número de comparações: 18
+A chave 500867 foi encontrada na árvore.
+Tempo de busca: 1.000576 segundos.
+Número de comparações: 21
+A chave 817016 não foi encontrada na árvore.
+Tempo de busca: 1.000955 segundos.
+Número de comparações: 14
+A chave 875727 não foi encontrada na árvore.
+Tempo de busca: 1.001091 segundos.
+Número de comparações: 14
+A chave 387103 foi encontrada na árvore.
+Tempo de busca: 1.000360 segundos.
+Número de comparações: 31
+A chave 620586 não foi encontrada na árvore.
+Tempo de busca: 1.001191 segundos.
+Número de comparações: 14
+A chave 19366 foi encontrada na árvore.
+Tempo de busca: 1.000624 segundos.
+Número de comparações: 25
+A chave 121798 foi encontrada na árvore.
+Tempo de busca: 1.000718 segundos.
+Número de comparações: 33
+A chave 105750 foi encontrada na árvore.
+Tempo de busca: 1.000771 segundos.
+Número de comparações: 32
+A chave 609334 não foi encontrada na árvore.
+Tempo de busca: 1.000729 segundos.
+Número de comparações: 14
+A chave 361614 foi encontrada na árvore.
+Tempo de busca: 1.000263 segundos.
+Número de comparações: 23
+A chave 646560 não foi encontrada na árvore.
+Tempo de busca: 1.000845 segundos.
+Número de comparações: 14
+A chave 515027 foi encontrada na árvore.
+Tempo de busca: 1.001095 segundos.
+Número de comparações: 27
+A chave 11344 foi encontrada na árvore.
+Tempo de busca: 1.000308 segundos.
+Número de comparações: 25
+A chave 742582 não foi encontrada na árvore.
+Tempo de busca: 1.000488 segundos.
+Número de comparações: 14
+A chave 737298 não foi encontrada na árvore.
+Tempo de busca: 1.000143 segundos.
+Número de comparações: 14
+A chave 378321 foi encontrada na árvore.
+Tempo de busca: 1.000558 segundos.
+Número de comparações: 19
+A chave 519381 foi encontrada na árvore.
+Tempo de busca: 1.000479 segundos.
+Número de comparações: 21
+A chave 539722 foi encontrada na árvore.
+Tempo de busca: 1.000576 segundos.
+Número de comparações: 30
+A chave 675359 não foi encontrada na árvore.
+Tempo de busca: 1.000107 segundos.
+Número de comparações: 14
+A chave 124982 foi encontrada na árvore.
+Tempo de busca: 1.000306 segundos.
+Número de comparações: 24
+A chave 412282 foi encontrada na árvore.
+Tempo de busca: 1.001275 segundos.
+Número de comparações: 24
+A chave 379146 foi encontrada na árvore.
+Tempo de busca: 1.001368 segundos.
+Número de comparações: 24
+A chave 371258 foi encontrada na árvore.
+Tempo de busca: 1.000124 segundos.
+Número de comparações: 27
+A chave 695555 não foi encontrada na árvore.
+Tempo de busca: 1.000447 segundos.
+Número de comparações: 14
+A chave 542325 foi encontrada na árvore.
+Tempo de busca: 1.000746 segundos.
+Número de comparações: 29
+A chave 858468 não foi encontrada na árvore.
+Tempo de busca: 1.000480 segundos.
+Número de comparações: 14
+A chave 417296 foi encontrada na árvore.
+Tempo de busca: 1.001296 segundos.
+Número de comparações: 15
+A chave 264937 foi encontrada na árvore.
+Tempo de busca: 1.000467 segundos.
+Número de comparações: 24
+A chave 113275 foi encontrada na árvore.
+Tempo de busca: 1.000744 segundos.
+Número de comparações: 25
+A chave 88424 foi encontrada na árvore.
+Tempo de busca: 1.000987 segundos.
+Número de comparações: 26
+A chave 973950 não foi encontrada na árvore.
+Tempo de busca: 1.001112 segundos.
+Número de comparações: 14
+A chave 72920 foi encontrada na árvore.
+Tempo de busca: 1.001021 segundos.
+Número de comparações: 29
+A chave 199481 foi encontrada na árvore.
+Tempo de busca: 1.000321 segundos.
+Número de comparações: 28
+A chave 189714 foi encontrada na árvore.
+Tempo de busca: 1.000517 segundos.
+Número de comparações: 25
+A chave 962071 não foi encontrada na árvore.
+Tempo de busca: 1.001278 segundos.
+Número de comparações: 14
+A chave 12344 foi encontrada na árvore.
+Tempo de busca: 1.001153 segundos.
+Número de comparações: 21
+A chave 997591 não foi encontrada na árvore.
+Tempo de busca: 1.001097 segundos.
+Número de comparações: 14
+A chave 462280 foi encontrada na árvore.
+Tempo de busca: 1.000745 segundos.
+Número de comparações: 39
+A chave 538143 foi encontrada na árvore.
+Tempo de busca: 1.001064 segundos.
+Número de comparações: 29
+A chave 394123 foi encontrada na árvore.
+Tempo de busca: 1.000073 segundos.
+Número de comparações: 34
+A chave 460123 foi encontrada na árvore.
+Tempo de busca: 1.001148 segundos.
+Número de comparações: 33
+A chave 103710 foi encontrada na árvore.
+Tempo de busca: 1.001467 segundos.
+Número de comparações: 27
+A chave 814886 não foi encontrada na árvore.
+Tempo de busca: 1.000072 segundos.
+Número de comparações: 14
+A chave 146508 foi encontrada na árvore.
+Tempo de busca: 1.001371 segundos.
+Número de comparações: 24
+A chave 538217 foi encontrada na árvore.
+Tempo de busca: 1.001004 segundos.
+Número de comparações: 27
+A chave 82665 foi encontrada na árvore.
+Tempo de busca: 1.001028 segundos.
+Número de comparações: 27
+A chave 696536 não foi encontrada na árvore.
+Tempo de busca: 1.001094 segundos.
+Número de comparações: 14
+A chave 266681 foi encontrada na árvore.
+Tempo de busca: 1.000160 segundos.
+Número de comparações: 26
+A chave 507700 foi encontrada na árvore.
+Tempo de busca: 1.000510 segundos.
+Número de comparações: 26
+A chave 272226 foi encontrada na árvore.
+Tempo de busca: 1.000400 segundos.
+Número de comparações: 23
+A chave 487393 foi encontrada na árvore.
+Tempo de busca: 1.000961 segundos.
+Número de comparações: 24
+A chave 752795 não foi encontrada na árvore.
+Tempo de busca: 1.000382 segundos.
+Número de comparações: 14
+A chave 889108 não foi encontrada na árvore.
+Tempo de busca: 1.000713 segundos.
+Número de comparações: 14
+A chave 797000 não foi encontrada na árvore.
+Tempo de busca: 1.001059 segundos.
+Número de comparações: 14
+A chave 149342 foi encontrada na árvore.
+Tempo de busca: 1.000630 segundos.
+Número de comparações: 26
+A chave 73701 foi encontrada na árvore.
+Tempo de busca: 1.001079 segundos.
+Número de comparações: 18
+A chave 865512 não foi encontrada na árvore.
+Tempo de busca: 1.000669 segundos.
+Número de comparações: 14
+A chave 352993 foi encontrada na árvore.
+Tempo de busca: 1.001003 segundos.
+Número de comparações: 24
+A chave 86183 foi encontrada na árvore.
+Tempo de busca: 1.000678 segundos.
+Número de comparações: 25
+A chave 152609 foi encontrada na árvore.
+Tempo de busca: 1.001003 segundos.
+Número de comparações: 22
+A chave 309498 foi encontrada na árvore.
+Tempo de busca: 1.000798 segundos.
+Número de comparações: 25
+A chave 246194 foi encontrada na árvore.
+Tempo de busca: 1.000173 segundos.
+Número de comparações: 23
+A chave 227539 foi encontrada na árvore.
+Tempo de busca: 1.000423 segundos.
+Número de comparações: 32
+A chave 325450 foi encontrada na árvore.
+Tempo de busca: 1.000413 segundos.
+Número de comparações: 21
+A chave 138016 foi encontrada na árvore.
+Tempo de busca: 1.000819 segundos.
+Número de comparações: 27
+A chave 575558 foi encontrada na árvore.
+Tempo de busca: 1.000941 segundos.
+Número de comparações: 27
+A chave 48676 foi encontrada na árvore.
+Tempo de busca: 1.000291 segundos.
+Número de comparações: 23
+A chave 509455 foi encontrada na árvore.
+Tempo de busca: 1.001269 segundos.
+Número de comparações: 29
+Média de comparações: 21.55
+Média de tempo de busca: 1.000723 segundos.
+Desvio padrão do tempo de busca: 0.000356 segundos.

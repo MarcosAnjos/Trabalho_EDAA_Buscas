@@ -1,0 +1,11 @@
+O valor 1000000 não foi encontrado na lista ligada. Tempo de busca: 0.08155465126037598 segundos. Número de comparações: 800000
+
+Calcular tempo médio
+Tempo médio de busca: 0.08155465126037598 segundos.
+
+Calcular o tempo total
+Tempo das buscas: [0.08155465126037598] segundos.
+Tempo total da busca: 0.08155465126037598 segundos.
+
+Calcular desvio padrão
+Desvio padrão (tempo): 0.0
